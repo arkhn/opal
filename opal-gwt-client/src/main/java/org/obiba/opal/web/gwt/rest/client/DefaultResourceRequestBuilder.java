@@ -34,7 +34,7 @@ import com.google.gwt.http.client.URL;
 @SuppressWarnings("StaticNonFinalField")
 public class DefaultResourceRequestBuilder<T extends JavaScriptObject> implements ResourceRequestBuilder<T> {
 
-  private final static String OPAL_WS_ROOT = "/ws";
+  private final static String OPAL_WS_ROOT = "/opal/ws";
 
   private final static String RESOURCE_MEDIA_TYPE = "application/x-protobuf+json";
 

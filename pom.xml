@@ -103,7 +103,7 @@
     <obiba-commons.version>2.1.3</obiba-commons.version>
     <opal-oda.version>1.2.3</opal-oda.version>
     <opencsv.version>2.3</opencsv.version>
-    <orientdb.version>2.2.37</orientdb.version>
+    <orientdb.version>3.0.0</orientdb.version>
     <ow2-spec.version>1.0.13</ow2-spec.version>
     <postgresql.version>42.3.4</postgresql.version>
     <protobuf-java-format.version>1.2.1-obiba</protobuf-java-format.version>
